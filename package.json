@@ -1,0 +1,23 @@
+{
+  "name": "000-assessment-2-000",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clinkyy/000-Assessment-2-000.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clinkyy/000-Assessment-2-000/issues"
+  },
+  "homepage": "https://github.com/Clinkyy/000-Assessment-2-000#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
